@@ -1,0 +1,16 @@
+html {
+    font-family: "Calibri", "Arial", "Helvetica", sans-serif;
+}
+body {
+    background-color: aliceblue;
+    color: darkcyan;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+}
+table, th, td, tr {
+    border: 1px solid;
+    border-color: darkcyan;
+    border-collapse: collapse;
+}
